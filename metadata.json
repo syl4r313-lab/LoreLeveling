@@ -1,0 +1,6 @@
+{
+  "name": "Lore Leveling",
+  "description": "Fitness-RPG im asozial-charmanten New-Kids-Style. Level deinen Proll durch reales Training, bilde Gangs und kämpfe in epischen Battles!",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}
